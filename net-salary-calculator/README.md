@@ -1,0 +1,1 @@
+The fie contains a function that calculate an individuals PAYE tax, NHIF contribution, NSSf contribution, compuutes deductions and also calculates the net salary of the individual. It accepts parameters of Basic salary and benefits. The amount to be enetered in parameters should be in a monthly format not yearly.
