@@ -1,6 +1,28 @@
-This repo provides solutions for;
-1. Student grade generator that outputs a studen grade.
-2. Speed detector that evaluates a drivers speed and gives demerits and can also suspen licenses.
-3. Net salary calculator that computes NSSF, NHif, Deductions and net salary.
+To be able to access the page [home page](index.html). The page consists of 3 more pages whose functions are as listed;
 
-Within the directories are readme files that specify exactly how to go about the solutions.
+### [Student Grade Generator](./student-grade-generator/grade-generator.html)
+
+        This page has a form that allows a user to input value to garde. The value should be between 0 and 100.
+        After adding a value to the input the page generates a grade. The grade ranges from A, B, C, D to E.
+        
+[Click here to try](./student-grade-generator/grade-generator.html)
+
+### [Speed Detector](./speed/speed.html)
+
+        This page consists of a form that allows a user to input a value. The value's default mode of mearsurement is in Km/Sec.
+        Clicking on the generate button after adding the value has the page giving you results. The results range from OK, Demerit Points, to License suspended.
+
+[Click here to try](./speed/speed.html)
+
+### [Net Salary Calculator](./netSalary/salary.html)
+
+    This page consists of a form with two input areas.The first part requires a value that is to be considered a Basic Salary. The second value is to
+    be considered as a Benefit. Both inputs are treated as numbers and have common mode of mearsurment which is Kshs. The values should be put as Monthly.
+    The page computes the values in a monthly format. The page evaluates the values after clicking generate. It performs arithmetic equations and returns results;
+    such as;
+            1. NHIF
+            2. NSSF
+            3. PAYE
+            4. Net Salary
+        
+[Click here to try](./netSalary/salary.html)

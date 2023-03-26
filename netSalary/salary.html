@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            grade generator
+        </title>
+        <link rel="stylesheet" href="./salary.css">
+    </head>
+    <body>
+        <div class="form-body">
+            <h3>
+                Net Salary Calculator
+            </h3>
+            <form class="generator" action="">
+                <label for="basicSalary">Basic Salary :</label>
+                <input type="number" name="basicSalary" id="basicSalary" placeholder="Basic Salary">
+                <br>
+                <label for="benefits">Benefits :</label>
+                <input type="number" name="Benefits" id="benefits" placeholder="Benefits" value="0">
+                <br>
+                <button type="submit">Generate</button>
+                <div id="result">
+                    <label for="result">Result</label>
+                    <p id="salary-result"></p>
+                </div>
+            </form>
+        </div>
+        <script src="./salary.js"></script>
+    </body>
+</html>

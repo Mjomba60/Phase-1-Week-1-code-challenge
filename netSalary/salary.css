@@ -1,0 +1,37 @@
+body {
+    background-color:#C69DCC;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+.form-body {
+    background-color: #C1FCF6;
+    border-style: solid;
+    border-color: #48817C;
+    border-radius: 4%;
+    width: 50%;
+    margin: auto;
+    padding: 4%;
+}
+
+h3 {
+    text-align: center;
+}
+input {
+    margin-left: 2%;
+    margin-top: 4%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    width: 60%;
+    font-size: 13px;
+}
+
+button{
+    background-color: #0080AC;
+    margin-left: 54%;
+    margin-top: 4%;
+    color: black;
+    font-size: 16px;
+    padding: 2%;
+    border-radius: 12%;
+    
+}

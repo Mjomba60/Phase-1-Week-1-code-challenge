@@ -1,1 +1,0 @@
-The file contains a function that gives drivers demerits if they exceed a speed of 70km/s. It requires one to input the speed to evaluate. After evaluation, any speed 5km/s above 70 enumarates a demerit.

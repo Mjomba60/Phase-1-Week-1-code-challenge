@@ -1,2 +1,0 @@
-The file provides a solution for calculating grades of students.
-Pass a grade to the calculateGrade function and receive a result in form of A, B, C, D or E depending on the grade input. The grade input should not exceed 100 and should not be less than 0.
